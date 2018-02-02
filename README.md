@@ -2,3 +2,4 @@
 C++ <br />
 Prosedyre og objektorientert programmering <br />
 Øvinger Vår 2016 <br />
+CLion with Cygwin <br />
