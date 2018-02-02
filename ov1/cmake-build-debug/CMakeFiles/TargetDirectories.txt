@@ -1,0 +1,3 @@
+/cygdrive/c/Users/tysse/CLionProjects/ov1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/tysse/CLionProjects/ov1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/tysse/CLionProjects/ov1/cmake-build-debug/CMakeFiles/ov1.dir

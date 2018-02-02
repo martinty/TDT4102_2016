@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ov1.dir/main.cpp.o CMakeFiles/ov1.dir/ov1.cpp.o  -o ov1.exe -Wl,--out-implib,libov1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

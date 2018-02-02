@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/tysse/CLionProjects/ov1/main.cpp
+iostream
+-
+ov1.h
+/cygdrive/c/Users/tysse/CLionProjects/ov1/ov1.h
+
+/cygdrive/c/Users/tysse/CLionProjects/ov1/ov1.cpp
+iostream
+-
+ov1.h
+/cygdrive/c/Users/tysse/CLionProjects/ov1/ov1.h
+list
+-
+
+/cygdrive/c/Users/tysse/CLionProjects/ov1/ov1.h
+

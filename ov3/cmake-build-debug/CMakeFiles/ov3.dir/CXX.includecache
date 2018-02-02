@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/tysse/CLionProjects/ov3/cannonball.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+random
+-
+cannonball.h
+/cygdrive/c/Users/tysse/CLionProjects/ov3/cannonball.h
+utilities.h
+/cygdrive/c/Users/tysse/CLionProjects/ov3/utilities.h
+
+/cygdrive/c/Users/tysse/CLionProjects/ov3/cannonball.h
+
+/cygdrive/c/Users/tysse/CLionProjects/ov3/main.cpp
+iostream
+-
+ctime
+-
+random
+-
+cannonball.h
+/cygdrive/c/Users/tysse/CLionProjects/ov3/cannonball.h
+utilities.h
+/cygdrive/c/Users/tysse/CLionProjects/ov3/utilities.h
+
+/cygdrive/c/Users/tysse/CLionProjects/ov3/utilities.cpp
+cstdlib
+-
+random
+-
+utilities.h
+/cygdrive/c/Users/tysse/CLionProjects/ov3/utilities.h
+
+/cygdrive/c/Users/tysse/CLionProjects/ov3/utilities.h
+
