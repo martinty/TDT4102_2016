@@ -81,17 +81,95 @@ CMakeFiles/ov4.dir/main.cpp.o.provides: CMakeFiles/ov4.dir/main.cpp.o.requires
 CMakeFiles/ov4.dir/main.cpp.o.provides.build: CMakeFiles/ov4.dir/main.cpp.o
 
 
+CMakeFiles/ov4.dir/utilities.cpp.o: CMakeFiles/ov4.dir/flags.make
+CMakeFiles/ov4.dir/utilities.cpp.o: ../utilities.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ov4.dir/utilities.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ov4.dir/utilities.cpp.o -c /cygdrive/c/Users/tysse/CLionProjects/ov4/utilities.cpp
+
+CMakeFiles/ov4.dir/utilities.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ov4.dir/utilities.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/tysse/CLionProjects/ov4/utilities.cpp > CMakeFiles/ov4.dir/utilities.cpp.i
+
+CMakeFiles/ov4.dir/utilities.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ov4.dir/utilities.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/tysse/CLionProjects/ov4/utilities.cpp -o CMakeFiles/ov4.dir/utilities.cpp.s
+
+CMakeFiles/ov4.dir/utilities.cpp.o.requires:
+
+.PHONY : CMakeFiles/ov4.dir/utilities.cpp.o.requires
+
+CMakeFiles/ov4.dir/utilities.cpp.o.provides: CMakeFiles/ov4.dir/utilities.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/utilities.cpp.o.provides.build
+.PHONY : CMakeFiles/ov4.dir/utilities.cpp.o.provides
+
+CMakeFiles/ov4.dir/utilities.cpp.o.provides.build: CMakeFiles/ov4.dir/utilities.cpp.o
+
+
+CMakeFiles/ov4.dir/tests.cpp.o: CMakeFiles/ov4.dir/flags.make
+CMakeFiles/ov4.dir/tests.cpp.o: ../tests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ov4.dir/tests.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ov4.dir/tests.cpp.o -c /cygdrive/c/Users/tysse/CLionProjects/ov4/tests.cpp
+
+CMakeFiles/ov4.dir/tests.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ov4.dir/tests.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/tysse/CLionProjects/ov4/tests.cpp > CMakeFiles/ov4.dir/tests.cpp.i
+
+CMakeFiles/ov4.dir/tests.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ov4.dir/tests.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/tysse/CLionProjects/ov4/tests.cpp -o CMakeFiles/ov4.dir/tests.cpp.s
+
+CMakeFiles/ov4.dir/tests.cpp.o.requires:
+
+.PHONY : CMakeFiles/ov4.dir/tests.cpp.o.requires
+
+CMakeFiles/ov4.dir/tests.cpp.o.provides: CMakeFiles/ov4.dir/tests.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/tests.cpp.o.provides.build
+.PHONY : CMakeFiles/ov4.dir/tests.cpp.o.provides
+
+CMakeFiles/ov4.dir/tests.cpp.o.provides.build: CMakeFiles/ov4.dir/tests.cpp.o
+
+
+CMakeFiles/ov4.dir/mastermind.cpp.o: CMakeFiles/ov4.dir/flags.make
+CMakeFiles/ov4.dir/mastermind.cpp.o: ../mastermind.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ov4.dir/mastermind.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ov4.dir/mastermind.cpp.o -c /cygdrive/c/Users/tysse/CLionProjects/ov4/mastermind.cpp
+
+CMakeFiles/ov4.dir/mastermind.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ov4.dir/mastermind.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/tysse/CLionProjects/ov4/mastermind.cpp > CMakeFiles/ov4.dir/mastermind.cpp.i
+
+CMakeFiles/ov4.dir/mastermind.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ov4.dir/mastermind.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/tysse/CLionProjects/ov4/mastermind.cpp -o CMakeFiles/ov4.dir/mastermind.cpp.s
+
+CMakeFiles/ov4.dir/mastermind.cpp.o.requires:
+
+.PHONY : CMakeFiles/ov4.dir/mastermind.cpp.o.requires
+
+CMakeFiles/ov4.dir/mastermind.cpp.o.provides: CMakeFiles/ov4.dir/mastermind.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/mastermind.cpp.o.provides.build
+.PHONY : CMakeFiles/ov4.dir/mastermind.cpp.o.provides
+
+CMakeFiles/ov4.dir/mastermind.cpp.o.provides.build: CMakeFiles/ov4.dir/mastermind.cpp.o
+
+
 # Object files for target ov4
 ov4_OBJECTS = \
-"CMakeFiles/ov4.dir/main.cpp.o"
+"CMakeFiles/ov4.dir/main.cpp.o" \
+"CMakeFiles/ov4.dir/utilities.cpp.o" \
+"CMakeFiles/ov4.dir/tests.cpp.o" \
+"CMakeFiles/ov4.dir/mastermind.cpp.o"
 
 # External object files for target ov4
 ov4_EXTERNAL_OBJECTS =
 
 ov4.exe: CMakeFiles/ov4.dir/main.cpp.o
+ov4.exe: CMakeFiles/ov4.dir/utilities.cpp.o
+ov4.exe: CMakeFiles/ov4.dir/tests.cpp.o
+ov4.exe: CMakeFiles/ov4.dir/mastermind.cpp.o
 ov4.exe: CMakeFiles/ov4.dir/build.make
 ov4.exe: CMakeFiles/ov4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ov4.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ov4.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ov4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +178,9 @@ CMakeFiles/ov4.dir/build: ov4.exe
 .PHONY : CMakeFiles/ov4.dir/build
 
 CMakeFiles/ov4.dir/requires: CMakeFiles/ov4.dir/main.cpp.o.requires
+CMakeFiles/ov4.dir/requires: CMakeFiles/ov4.dir/utilities.cpp.o.requires
+CMakeFiles/ov4.dir/requires: CMakeFiles/ov4.dir/tests.cpp.o.requires
+CMakeFiles/ov4.dir/requires: CMakeFiles/ov4.dir/mastermind.cpp.o.requires
 
 .PHONY : CMakeFiles/ov4.dir/requires
 

@@ -150,6 +150,87 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mastermind.o: mastermind.cpp.o
+
+.PHONY : mastermind.o
+
+# target to build an object file
+mastermind.cpp.o:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/mastermind.cpp.o
+.PHONY : mastermind.cpp.o
+
+mastermind.i: mastermind.cpp.i
+
+.PHONY : mastermind.i
+
+# target to preprocess a source file
+mastermind.cpp.i:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/mastermind.cpp.i
+.PHONY : mastermind.cpp.i
+
+mastermind.s: mastermind.cpp.s
+
+.PHONY : mastermind.s
+
+# target to generate assembly for a file
+mastermind.cpp.s:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/mastermind.cpp.s
+.PHONY : mastermind.cpp.s
+
+tests.o: tests.cpp.o
+
+.PHONY : tests.o
+
+# target to build an object file
+tests.cpp.o:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/tests.cpp.o
+.PHONY : tests.cpp.o
+
+tests.i: tests.cpp.i
+
+.PHONY : tests.i
+
+# target to preprocess a source file
+tests.cpp.i:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/tests.cpp.i
+.PHONY : tests.cpp.i
+
+tests.s: tests.cpp.s
+
+.PHONY : tests.s
+
+# target to generate assembly for a file
+tests.cpp.s:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/tests.cpp.s
+.PHONY : tests.cpp.s
+
+utilities.o: utilities.cpp.o
+
+.PHONY : utilities.o
+
+# target to build an object file
+utilities.cpp.o:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/utilities.cpp.o
+.PHONY : utilities.cpp.o
+
+utilities.i: utilities.cpp.i
+
+.PHONY : utilities.i
+
+# target to preprocess a source file
+utilities.cpp.i:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/utilities.cpp.i
+.PHONY : utilities.cpp.i
+
+utilities.s: utilities.cpp.s
+
+.PHONY : utilities.s
+
+# target to generate assembly for a file
+utilities.cpp.s:
+	$(MAKE) -f CMakeFiles/ov4.dir/build.make CMakeFiles/ov4.dir/utilities.cpp.s
+.PHONY : utilities.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +243,15 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mastermind.o"
+	@echo "... mastermind.i"
+	@echo "... mastermind.s"
+	@echo "... tests.o"
+	@echo "... tests.i"
+	@echo "... tests.s"
+	@echo "... utilities.o"
+	@echo "... utilities.i"
+	@echo "... utilities.s"
 .PHONY : help
 
 

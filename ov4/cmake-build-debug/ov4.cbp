@@ -83,6 +83,24 @@
 		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov4/main.cpp">
 			<Option target="ov4"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov4/mastermind.cpp">
+			<Option target="ov4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov4/mastermind.h">
+			<Option target="ov4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov4/tests.cpp">
+			<Option target="ov4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov4/tests.h">
+			<Option target="ov4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov4/utilities.cpp">
+			<Option target="ov4"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov4/utilities.h">
+			<Option target="ov4"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov4/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
