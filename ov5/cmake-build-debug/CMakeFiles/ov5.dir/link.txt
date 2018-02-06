@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ov5.dir/main.cpp.o CMakeFiles/ov5.dir/utilities.cpp.o CMakeFiles/ov5.dir/Card.cpp.o CMakeFiles/ov5.dir/CardDeck.cpp.o CMakeFiles/ov5.dir/Blackjack.cpp.o  -o ov5.exe -Wl,--out-implib,libov5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
