@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ov6.dir/main.cpp.o CMakeFiles/ov6.dir/Matrix2x2.cpp.o CMakeFiles/ov6.dir/Vector2.cpp.o CMakeFiles/ov6.dir/utilities.cpp.o  -o ov6.exe -Wl,--out-implib,libov6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
