@@ -3,4 +3,4 @@ project(ov7)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(ov7 main.cpp)
+add_executable(ov7 main.cpp utilities.cpp utilities.h Matrix.cpp Matrix.h)

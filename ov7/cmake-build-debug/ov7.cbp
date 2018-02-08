@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov7/Matrix.cpp">
+			<Option target="ov7"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov7/Matrix.h">
+			<Option target="ov7"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov7/main.cpp">
+			<Option target="ov7"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov7/utilities.cpp">
+			<Option target="ov7"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov7/utilities.h">
 			<Option target="ov7"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov7/CMakeLists.txt">

@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ov7.dir/main.cpp.o  -o ov7.exe -Wl,--out-implib,libov7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ov7.dir/main.cpp.o CMakeFiles/ov7.dir/utilities.cpp.o CMakeFiles/ov7.dir/Matrix.cpp.o  -o ov7.exe -Wl,--out-implib,libov7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
