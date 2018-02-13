@@ -123,6 +123,33 @@ ov8/fast:
 	$(MAKE) -f CMakeFiles/ov8.dir/build.make CMakeFiles/ov8.dir/build
 .PHONY : ov8/fast
 
+CourseCatalog.o: CourseCatalog.cpp.o
+
+.PHONY : CourseCatalog.o
+
+# target to build an object file
+CourseCatalog.cpp.o:
+	$(MAKE) -f CMakeFiles/ov8.dir/build.make CMakeFiles/ov8.dir/CourseCatalog.cpp.o
+.PHONY : CourseCatalog.cpp.o
+
+CourseCatalog.i: CourseCatalog.cpp.i
+
+.PHONY : CourseCatalog.i
+
+# target to preprocess a source file
+CourseCatalog.cpp.i:
+	$(MAKE) -f CMakeFiles/ov8.dir/build.make CMakeFiles/ov8.dir/CourseCatalog.cpp.i
+.PHONY : CourseCatalog.cpp.i
+
+CourseCatalog.s: CourseCatalog.cpp.s
+
+.PHONY : CourseCatalog.s
+
+# target to generate assembly for a file
+CourseCatalog.cpp.s:
+	$(MAKE) -f CMakeFiles/ov8.dir/build.make CMakeFiles/ov8.dir/CourseCatalog.cpp.s
+.PHONY : CourseCatalog.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +177,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/ov8.dir/build.make CMakeFiles/ov8.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+utilities.o: utilities.cpp.o
+
+.PHONY : utilities.o
+
+# target to build an object file
+utilities.cpp.o:
+	$(MAKE) -f CMakeFiles/ov8.dir/build.make CMakeFiles/ov8.dir/utilities.cpp.o
+.PHONY : utilities.cpp.o
+
+utilities.i: utilities.cpp.i
+
+.PHONY : utilities.i
+
+# target to preprocess a source file
+utilities.cpp.i:
+	$(MAKE) -f CMakeFiles/ov8.dir/build.make CMakeFiles/ov8.dir/utilities.cpp.i
+.PHONY : utilities.cpp.i
+
+utilities.s: utilities.cpp.s
+
+.PHONY : utilities.s
+
+# target to generate assembly for a file
+utilities.cpp.s:
+	$(MAKE) -f CMakeFiles/ov8.dir/build.make CMakeFiles/ov8.dir/utilities.cpp.s
+.PHONY : utilities.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ov8"
+	@echo "... CourseCatalog.o"
+	@echo "... CourseCatalog.i"
+	@echo "... CourseCatalog.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... utilities.o"
+	@echo "... utilities.i"
+	@echo "... utilities.s"
 .PHONY : help
 
 

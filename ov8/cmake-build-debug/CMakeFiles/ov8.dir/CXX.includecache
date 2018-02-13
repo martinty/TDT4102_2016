@@ -6,7 +6,37 @@
 
 #IncludeRegexTransform: 
 
+/cygdrive/c/Users/tysse/CLionProjects/ov8/CourseCatalog.cpp
+iostream
+-
+map
+-
+fstream
+-
+CourseCatalog.h
+/cygdrive/c/Users/tysse/CLionProjects/ov8/CourseCatalog.h
+
+/cygdrive/c/Users/tysse/CLionProjects/ov8/CourseCatalog.h
+
 /cygdrive/c/Users/tysse/CLionProjects/ov8/main.cpp
 iostream
 -
+map
+-
+utilities.h
+/cygdrive/c/Users/tysse/CLionProjects/ov8/utilities.h
+CourseCatalog.h
+/cygdrive/c/Users/tysse/CLionProjects/ov8/CourseCatalog.h
+
+/cygdrive/c/Users/tysse/CLionProjects/ov8/utilities.cpp
+iostream
+-
+fstream
+-
+map
+-
+utilities.h
+/cygdrive/c/Users/tysse/CLionProjects/ov8/utilities.h
+
+/cygdrive/c/Users/tysse/CLionProjects/ov8/utilities.h
 

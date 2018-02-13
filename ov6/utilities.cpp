@@ -24,7 +24,7 @@ void equationSet(){
     cout << "II : cx + dy = q\n" << endl;
     cout << "| a  b |   | x |   | p |" << endl;
     cout << "|      | * |   | = |   |" << endl;
-    cout << "| c  d |   1 y |   1 q |\n" << endl;
+    cout << "| c  d |   | y |   | q |\n" << endl;
     cout << "A*x = z\n" << endl;
     cout << "Write the value of the parameters" << endl;
     cout << "a: ";

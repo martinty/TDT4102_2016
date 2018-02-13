@@ -1,0 +1,4 @@
+Merk: Filstier er en kilde til forvirring når man leser fra og skriver til filer. Programmene du
+lager vil typisk lagre filene i prosjektets arbeidsmappe (working directory) hvis du kun bruke
+filnavnet (og ikke inkluderer stien). Den letteste måten å finne ut hvor filene du lager blir lagret,
+er å lage en fil og lete etter den i prosjektmappene.
