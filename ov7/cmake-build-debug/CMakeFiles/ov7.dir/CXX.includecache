@@ -6,29 +6,29 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/tysse/CLionProjects/ov7/Matrix.cpp
+C:/Users/tysse/CLionProjects/ov7/Matrix.cpp
 iostream
 -
 iomanip
 -
 Matrix.h
-/cygdrive/c/Users/tysse/CLionProjects/ov7/Matrix.h
+C:/Users/tysse/CLionProjects/ov7/Matrix.h
 
-/cygdrive/c/Users/tysse/CLionProjects/ov7/Matrix.h
+C:/Users/tysse/CLionProjects/ov7/Matrix.h
 
-/cygdrive/c/Users/tysse/CLionProjects/ov7/main.cpp
+C:/Users/tysse/CLionProjects/ov7/main.cpp
 iostream
 -
 utilities.h
-/cygdrive/c/Users/tysse/CLionProjects/ov7/utilities.h
+C:/Users/tysse/CLionProjects/ov7/utilities.h
 Matrix.h
-/cygdrive/c/Users/tysse/CLionProjects/ov7/Matrix.h
+C:/Users/tysse/CLionProjects/ov7/Matrix.h
 
-/cygdrive/c/Users/tysse/CLionProjects/ov7/utilities.cpp
+C:/Users/tysse/CLionProjects/ov7/utilities.cpp
 iostream
 -
 utilities.h
-/cygdrive/c/Users/tysse/CLionProjects/ov7/utilities.h
+C:/Users/tysse/CLionProjects/ov7/utilities.h
 
-/cygdrive/c/Users/tysse/CLionProjects/ov7/utilities.h
+C:/Users/tysse/CLionProjects/ov7/utilities.h
 

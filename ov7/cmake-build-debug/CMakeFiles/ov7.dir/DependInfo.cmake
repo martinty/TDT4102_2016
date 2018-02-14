@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/tysse/CLionProjects/ov7/Matrix.cpp" "/cygdrive/c/Users/tysse/CLionProjects/ov7/cmake-build-debug/CMakeFiles/ov7.dir/Matrix.cpp.o"
-  "/cygdrive/c/Users/tysse/CLionProjects/ov7/main.cpp" "/cygdrive/c/Users/tysse/CLionProjects/ov7/cmake-build-debug/CMakeFiles/ov7.dir/main.cpp.o"
-  "/cygdrive/c/Users/tysse/CLionProjects/ov7/utilities.cpp" "/cygdrive/c/Users/tysse/CLionProjects/ov7/cmake-build-debug/CMakeFiles/ov7.dir/utilities.cpp.o"
+  "C:/Users/tysse/CLionProjects/ov7/Matrix.cpp" "C:/Users/tysse/CLionProjects/ov7/cmake-build-debug/CMakeFiles/ov7.dir/Matrix.cpp.obj"
+  "C:/Users/tysse/CLionProjects/ov7/main.cpp" "C:/Users/tysse/CLionProjects/ov7/cmake-build-debug/CMakeFiles/ov7.dir/main.cpp.obj"
+  "C:/Users/tysse/CLionProjects/ov7/utilities.cpp" "C:/Users/tysse/CLionProjects/ov7/cmake-build-debug/CMakeFiles/ov7.dir/utilities.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/tysse/CLionProjects/ov8/CourseCatalog.cpp
+C:/Users/tysse/CLionProjects/ov8/CourseCatalog.cpp
 iostream
 -
 map
@@ -14,21 +14,21 @@ map
 fstream
 -
 CourseCatalog.h
-/cygdrive/c/Users/tysse/CLionProjects/ov8/CourseCatalog.h
+C:/Users/tysse/CLionProjects/ov8/CourseCatalog.h
 
-/cygdrive/c/Users/tysse/CLionProjects/ov8/CourseCatalog.h
+C:/Users/tysse/CLionProjects/ov8/CourseCatalog.h
 
-/cygdrive/c/Users/tysse/CLionProjects/ov8/main.cpp
+C:/Users/tysse/CLionProjects/ov8/main.cpp
 iostream
 -
 map
 -
 utilities.h
-/cygdrive/c/Users/tysse/CLionProjects/ov8/utilities.h
+C:/Users/tysse/CLionProjects/ov8/utilities.h
 CourseCatalog.h
-/cygdrive/c/Users/tysse/CLionProjects/ov8/CourseCatalog.h
+C:/Users/tysse/CLionProjects/ov8/CourseCatalog.h
 
-/cygdrive/c/Users/tysse/CLionProjects/ov8/utilities.cpp
+C:/Users/tysse/CLionProjects/ov8/utilities.cpp
 iostream
 -
 fstream
@@ -36,7 +36,7 @@ fstream
 map
 -
 utilities.h
-/cygdrive/c/Users/tysse/CLionProjects/ov8/utilities.h
+C:/Users/tysse/CLionProjects/ov8/utilities.h
 
-/cygdrive/c/Users/tysse/CLionProjects/ov8/utilities.h
+C:/Users/tysse/CLionProjects/ov8/utilities.h
 

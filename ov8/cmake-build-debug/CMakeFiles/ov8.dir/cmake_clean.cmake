@@ -1,9 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ov8.dir/main.cpp.o"
-  "CMakeFiles/ov8.dir/utilities.cpp.o"
-  "CMakeFiles/ov8.dir/CourseCatalog.cpp.o"
+  "CMakeFiles/ov8.dir/main.cpp.obj"
+  "CMakeFiles/ov8.dir/utilities.cpp.obj"
+  "CMakeFiles/ov8.dir/CourseCatalog.cpp.obj"
   "ov8.pdb"
   "ov8.exe"
+  "ov8.exe.manifest"
   "libov8.dll.a"
 )
 

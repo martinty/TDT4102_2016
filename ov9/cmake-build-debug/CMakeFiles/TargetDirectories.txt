@@ -1,3 +1,3 @@
-/cygdrive/c/Users/tysse/CLionProjects/ov9/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/tysse/CLionProjects/ov9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/tysse/CLionProjects/ov9/cmake-build-debug/CMakeFiles/ov9.dir
+C:/Users/tysse/CLionProjects/ov9/cmake-build-debug/CMakeFiles/ov9.dir
+C:/Users/tysse/CLionProjects/ov9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tysse/CLionProjects/ov9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
