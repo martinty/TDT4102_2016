@@ -123,6 +123,141 @@ ov10/fast:
 	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/build
 .PHONY : ov10/fast
 
+Image.o: Image.cpp.o
+
+.PHONY : Image.o
+
+# target to build an object file
+Image.cpp.o:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Image.cpp.o
+.PHONY : Image.cpp.o
+
+Image.i: Image.cpp.i
+
+.PHONY : Image.i
+
+# target to preprocess a source file
+Image.cpp.i:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Image.cpp.i
+.PHONY : Image.cpp.i
+
+Image.s: Image.cpp.s
+
+.PHONY : Image.s
+
+# target to generate assembly for a file
+Image.cpp.s:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Image.cpp.s
+.PHONY : Image.cpp.s
+
+ImageIO.o: ImageIO.cpp.o
+
+.PHONY : ImageIO.o
+
+# target to build an object file
+ImageIO.cpp.o:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/ImageIO.cpp.o
+.PHONY : ImageIO.cpp.o
+
+ImageIO.i: ImageIO.cpp.i
+
+.PHONY : ImageIO.i
+
+# target to preprocess a source file
+ImageIO.cpp.i:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/ImageIO.cpp.i
+.PHONY : ImageIO.cpp.i
+
+ImageIO.s: ImageIO.cpp.s
+
+.PHONY : ImageIO.s
+
+# target to generate assembly for a file
+ImageIO.cpp.s:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/ImageIO.cpp.s
+.PHONY : ImageIO.cpp.s
+
+Matrix.o: Matrix.cpp.o
+
+.PHONY : Matrix.o
+
+# target to build an object file
+Matrix.cpp.o:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Matrix.cpp.o
+.PHONY : Matrix.cpp.o
+
+Matrix.i: Matrix.cpp.i
+
+.PHONY : Matrix.i
+
+# target to preprocess a source file
+Matrix.cpp.i:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Matrix.cpp.i
+.PHONY : Matrix.cpp.i
+
+Matrix.s: Matrix.cpp.s
+
+.PHONY : Matrix.s
+
+# target to generate assembly for a file
+Matrix.cpp.s:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Matrix.cpp.s
+.PHONY : Matrix.cpp.s
+
+Shape.o: Shape.cpp.o
+
+.PHONY : Shape.o
+
+# target to build an object file
+Shape.cpp.o:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Shape.cpp.o
+.PHONY : Shape.cpp.o
+
+Shape.i: Shape.cpp.i
+
+.PHONY : Shape.i
+
+# target to preprocess a source file
+Shape.cpp.i:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Shape.cpp.i
+.PHONY : Shape.cpp.i
+
+Shape.s: Shape.cpp.s
+
+.PHONY : Shape.s
+
+# target to generate assembly for a file
+Shape.cpp.s:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Shape.cpp.s
+.PHONY : Shape.cpp.s
+
+Vector.o: Vector.cpp.o
+
+.PHONY : Vector.o
+
+# target to build an object file
+Vector.cpp.o:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Vector.cpp.o
+.PHONY : Vector.cpp.o
+
+Vector.i: Vector.cpp.i
+
+.PHONY : Vector.i
+
+# target to preprocess a source file
+Vector.cpp.i:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Vector.cpp.i
+.PHONY : Vector.cpp.i
+
+Vector.s: Vector.cpp.s
+
+.PHONY : Vector.s
+
+# target to generate assembly for a file
+Vector.cpp.s:
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Vector.cpp.s
+.PHONY : Vector.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +294,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ov10"
+	@echo "... Image.o"
+	@echo "... Image.i"
+	@echo "... Image.s"
+	@echo "... ImageIO.o"
+	@echo "... ImageIO.i"
+	@echo "... ImageIO.s"
+	@echo "... Matrix.o"
+	@echo "... Matrix.i"
+	@echo "... Matrix.s"
+	@echo "... Shape.o"
+	@echo "... Shape.i"
+	@echo "... Shape.s"
+	@echo "... Vector.o"
+	@echo "... Vector.i"
+	@echo "... Vector.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

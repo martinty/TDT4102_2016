@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ov10.dir/main.cpp.o  -o ov10.exe -Wl,--out-implib,libov10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ov10.dir/main.cpp.o CMakeFiles/ov10.dir/Image.cpp.o CMakeFiles/ov10.dir/Matrix.cpp.o CMakeFiles/ov10.dir/ImageIO.cpp.o CMakeFiles/ov10.dir/Vector.cpp.o CMakeFiles/ov10.dir/Shape.cpp.o  -o ov10.exe -Wl,--out-implib,libov10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

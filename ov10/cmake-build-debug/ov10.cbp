@@ -80,6 +80,33 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/Image.cpp">
+			<Option target="ov10"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/Image.h">
+			<Option target="ov10"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/ImageIO.cpp">
+			<Option target="ov10"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/Matrix.cpp">
+			<Option target="ov10"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/Matrix.h">
+			<Option target="ov10"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/Shape.cpp">
+			<Option target="ov10"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/Shape.h">
+			<Option target="ov10"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/Vector.cpp">
+			<Option target="ov10"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/Vector.h">
+			<Option target="ov10"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/tysse/CLionProjects/ov10/main.cpp">
 			<Option target="ov10"/>
 		</Unit>

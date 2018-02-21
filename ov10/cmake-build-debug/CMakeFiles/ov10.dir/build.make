@@ -81,17 +81,147 @@ CMakeFiles/ov10.dir/main.cpp.o.provides: CMakeFiles/ov10.dir/main.cpp.o.requires
 CMakeFiles/ov10.dir/main.cpp.o.provides.build: CMakeFiles/ov10.dir/main.cpp.o
 
 
+CMakeFiles/ov10.dir/Image.cpp.o: CMakeFiles/ov10.dir/flags.make
+CMakeFiles/ov10.dir/Image.cpp.o: ../Image.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov10/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ov10.dir/Image.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ov10.dir/Image.cpp.o -c /cygdrive/c/Users/tysse/CLionProjects/ov10/Image.cpp
+
+CMakeFiles/ov10.dir/Image.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ov10.dir/Image.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/tysse/CLionProjects/ov10/Image.cpp > CMakeFiles/ov10.dir/Image.cpp.i
+
+CMakeFiles/ov10.dir/Image.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ov10.dir/Image.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/tysse/CLionProjects/ov10/Image.cpp -o CMakeFiles/ov10.dir/Image.cpp.s
+
+CMakeFiles/ov10.dir/Image.cpp.o.requires:
+
+.PHONY : CMakeFiles/ov10.dir/Image.cpp.o.requires
+
+CMakeFiles/ov10.dir/Image.cpp.o.provides: CMakeFiles/ov10.dir/Image.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Image.cpp.o.provides.build
+.PHONY : CMakeFiles/ov10.dir/Image.cpp.o.provides
+
+CMakeFiles/ov10.dir/Image.cpp.o.provides.build: CMakeFiles/ov10.dir/Image.cpp.o
+
+
+CMakeFiles/ov10.dir/Matrix.cpp.o: CMakeFiles/ov10.dir/flags.make
+CMakeFiles/ov10.dir/Matrix.cpp.o: ../Matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov10/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ov10.dir/Matrix.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ov10.dir/Matrix.cpp.o -c /cygdrive/c/Users/tysse/CLionProjects/ov10/Matrix.cpp
+
+CMakeFiles/ov10.dir/Matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ov10.dir/Matrix.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/tysse/CLionProjects/ov10/Matrix.cpp > CMakeFiles/ov10.dir/Matrix.cpp.i
+
+CMakeFiles/ov10.dir/Matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ov10.dir/Matrix.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/tysse/CLionProjects/ov10/Matrix.cpp -o CMakeFiles/ov10.dir/Matrix.cpp.s
+
+CMakeFiles/ov10.dir/Matrix.cpp.o.requires:
+
+.PHONY : CMakeFiles/ov10.dir/Matrix.cpp.o.requires
+
+CMakeFiles/ov10.dir/Matrix.cpp.o.provides: CMakeFiles/ov10.dir/Matrix.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Matrix.cpp.o.provides.build
+.PHONY : CMakeFiles/ov10.dir/Matrix.cpp.o.provides
+
+CMakeFiles/ov10.dir/Matrix.cpp.o.provides.build: CMakeFiles/ov10.dir/Matrix.cpp.o
+
+
+CMakeFiles/ov10.dir/ImageIO.cpp.o: CMakeFiles/ov10.dir/flags.make
+CMakeFiles/ov10.dir/ImageIO.cpp.o: ../ImageIO.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov10/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ov10.dir/ImageIO.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ov10.dir/ImageIO.cpp.o -c /cygdrive/c/Users/tysse/CLionProjects/ov10/ImageIO.cpp
+
+CMakeFiles/ov10.dir/ImageIO.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ov10.dir/ImageIO.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/tysse/CLionProjects/ov10/ImageIO.cpp > CMakeFiles/ov10.dir/ImageIO.cpp.i
+
+CMakeFiles/ov10.dir/ImageIO.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ov10.dir/ImageIO.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/tysse/CLionProjects/ov10/ImageIO.cpp -o CMakeFiles/ov10.dir/ImageIO.cpp.s
+
+CMakeFiles/ov10.dir/ImageIO.cpp.o.requires:
+
+.PHONY : CMakeFiles/ov10.dir/ImageIO.cpp.o.requires
+
+CMakeFiles/ov10.dir/ImageIO.cpp.o.provides: CMakeFiles/ov10.dir/ImageIO.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/ImageIO.cpp.o.provides.build
+.PHONY : CMakeFiles/ov10.dir/ImageIO.cpp.o.provides
+
+CMakeFiles/ov10.dir/ImageIO.cpp.o.provides.build: CMakeFiles/ov10.dir/ImageIO.cpp.o
+
+
+CMakeFiles/ov10.dir/Vector.cpp.o: CMakeFiles/ov10.dir/flags.make
+CMakeFiles/ov10.dir/Vector.cpp.o: ../Vector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov10/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ov10.dir/Vector.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ov10.dir/Vector.cpp.o -c /cygdrive/c/Users/tysse/CLionProjects/ov10/Vector.cpp
+
+CMakeFiles/ov10.dir/Vector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ov10.dir/Vector.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/tysse/CLionProjects/ov10/Vector.cpp > CMakeFiles/ov10.dir/Vector.cpp.i
+
+CMakeFiles/ov10.dir/Vector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ov10.dir/Vector.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/tysse/CLionProjects/ov10/Vector.cpp -o CMakeFiles/ov10.dir/Vector.cpp.s
+
+CMakeFiles/ov10.dir/Vector.cpp.o.requires:
+
+.PHONY : CMakeFiles/ov10.dir/Vector.cpp.o.requires
+
+CMakeFiles/ov10.dir/Vector.cpp.o.provides: CMakeFiles/ov10.dir/Vector.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Vector.cpp.o.provides.build
+.PHONY : CMakeFiles/ov10.dir/Vector.cpp.o.provides
+
+CMakeFiles/ov10.dir/Vector.cpp.o.provides.build: CMakeFiles/ov10.dir/Vector.cpp.o
+
+
+CMakeFiles/ov10.dir/Shape.cpp.o: CMakeFiles/ov10.dir/flags.make
+CMakeFiles/ov10.dir/Shape.cpp.o: ../Shape.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov10/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ov10.dir/Shape.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ov10.dir/Shape.cpp.o -c /cygdrive/c/Users/tysse/CLionProjects/ov10/Shape.cpp
+
+CMakeFiles/ov10.dir/Shape.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ov10.dir/Shape.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/tysse/CLionProjects/ov10/Shape.cpp > CMakeFiles/ov10.dir/Shape.cpp.i
+
+CMakeFiles/ov10.dir/Shape.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ov10.dir/Shape.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/tysse/CLionProjects/ov10/Shape.cpp -o CMakeFiles/ov10.dir/Shape.cpp.s
+
+CMakeFiles/ov10.dir/Shape.cpp.o.requires:
+
+.PHONY : CMakeFiles/ov10.dir/Shape.cpp.o.requires
+
+CMakeFiles/ov10.dir/Shape.cpp.o.provides: CMakeFiles/ov10.dir/Shape.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ov10.dir/build.make CMakeFiles/ov10.dir/Shape.cpp.o.provides.build
+.PHONY : CMakeFiles/ov10.dir/Shape.cpp.o.provides
+
+CMakeFiles/ov10.dir/Shape.cpp.o.provides.build: CMakeFiles/ov10.dir/Shape.cpp.o
+
+
 # Object files for target ov10
 ov10_OBJECTS = \
-"CMakeFiles/ov10.dir/main.cpp.o"
+"CMakeFiles/ov10.dir/main.cpp.o" \
+"CMakeFiles/ov10.dir/Image.cpp.o" \
+"CMakeFiles/ov10.dir/Matrix.cpp.o" \
+"CMakeFiles/ov10.dir/ImageIO.cpp.o" \
+"CMakeFiles/ov10.dir/Vector.cpp.o" \
+"CMakeFiles/ov10.dir/Shape.cpp.o"
 
 # External object files for target ov10
 ov10_EXTERNAL_OBJECTS =
 
 ov10.exe: CMakeFiles/ov10.dir/main.cpp.o
+ov10.exe: CMakeFiles/ov10.dir/Image.cpp.o
+ov10.exe: CMakeFiles/ov10.dir/Matrix.cpp.o
+ov10.exe: CMakeFiles/ov10.dir/ImageIO.cpp.o
+ov10.exe: CMakeFiles/ov10.dir/Vector.cpp.o
+ov10.exe: CMakeFiles/ov10.dir/Shape.cpp.o
 ov10.exe: CMakeFiles/ov10.dir/build.make
 ov10.exe: CMakeFiles/ov10.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov10/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ov10.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/tysse/CLionProjects/ov10/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable ov10.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ov10.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +230,11 @@ CMakeFiles/ov10.dir/build: ov10.exe
 .PHONY : CMakeFiles/ov10.dir/build
 
 CMakeFiles/ov10.dir/requires: CMakeFiles/ov10.dir/main.cpp.o.requires
+CMakeFiles/ov10.dir/requires: CMakeFiles/ov10.dir/Image.cpp.o.requires
+CMakeFiles/ov10.dir/requires: CMakeFiles/ov10.dir/Matrix.cpp.o.requires
+CMakeFiles/ov10.dir/requires: CMakeFiles/ov10.dir/ImageIO.cpp.o.requires
+CMakeFiles/ov10.dir/requires: CMakeFiles/ov10.dir/Vector.cpp.o.requires
+CMakeFiles/ov10.dir/requires: CMakeFiles/ov10.dir/Shape.cpp.o.requires
 
 .PHONY : CMakeFiles/ov10.dir/requires
 
